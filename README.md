@@ -8,7 +8,7 @@ He is skilled in the use of this framework to develop web applications. well-ver
 In addition to his skills in backend development, He is familiar with python as well as frontend development concepts and technology such as React. 
 In the course of his career, He has had the opportunity to collaborate with cross-functional teams as an intern to develop and deploy web applications that meet user needs.
 
-Backend developer | NodeJS developer | Frontend developer | Python developer
+Backend developer | NodeJS developer | Python developer
 
 **Here's a quick summary about me**:
 
