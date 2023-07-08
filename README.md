@@ -16,4 +16,4 @@ Backend developer | NodeJS developer | Python developer
 - 🌱 I am proficient using JavaScript, NodeJs, and its popular backend framework.
 - 😊 I’m interested in open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtoabbasbilliamin2@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1hoU0BXB7DaSY3W332_WmHKdhjqWCAo_CUhOQ5bdTvi0/edit?usp=sharing) and contact me by emailing mailtoabbasbilliamin2@gmail.com.
