@@ -14,7 +14,7 @@ Backend developer | NodeJS developer | Python developer
 
 - 😊 Pronouns: He/him
 - 💡  A graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I am proficient JavaScript, NodeJs, and its popular backend framework.
+- 🌱 I am proficient using JavaScript, NodeJs, and its popular backend framework.
 - 😊 I’m interested in open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing mailtoabbasbilliamin2@gmail.com.
