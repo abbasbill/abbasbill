@@ -1,9 +1,9 @@
 # Hello there; welcome 👋🏾
 [![Linkedin Badge](https://img.shields.io/badge/-abbasbilliamin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abbasbilliamin)](https://www.linkedin.com/in/abbasbilliamin) [![Twitter Badge](https://img.shields.io/badge/-@sxzQuare-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sxzQuare)](https://twitter.com/sxzQuare)
 
-With over two years of experience working in the field of Software Development, I have honed my skills HTML, CSS, JavaScript, and most notably I am very proficient in Express.
+With over two years of experience working in the field of Software Development, I am very proficient in Javascript and Express.js in building backend system.
 I am skilled in the use of this framework to develop web applications, with solid understanding of the importance of data modeling, cache layering, and schema design for optimal app performance and scalability.
-In addition to these, I am is familiar with python as well as frontend development concepts and technology such as React. 
+In addition to these, I am familiar with python as well as frontend development concepts and technology such as React. 
 In the course of my career, I have had the opportunity to collaborate with cross-functional teams as an intern to develop and deploy web applications that meet user needs.
 
 Backend developer | NodeJS developer | Python developer
