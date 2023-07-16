@@ -1,5 +1,5 @@
 # Hello there; welcome 👋🏾
-[![Linkedin Badge](https://img.shields.io/badge/-abbasbilliamin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abbasbilliamin)](https://www.linkedin.com/in/abbasbilliamin) [![Twitter Badge](https://img.shields.io/badge/-@sxzQuare-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sxplendo)](https://twitter.com/sxplendo)
+[![Linkedin Badge](https://img.shields.io/badge/-abbasbilliamin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abbasbilliamin)](https://www.linkedin.com/in/abbasbilliamin) [![Twitter Badge](https://img.shields.io/badge/-@sxplendo-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sxplendo)](https://twitter.com/sxplendo)
 
 With over two years of experience working in the field of Software Development, I am very proficient in Javascript and Express.js in building backend system.
 I am skilled in the use of this framework to develop web applications, with solid understanding of the importance of data modeling, cache layering, and schema design for optimal app performance and scalability.
@@ -12,7 +12,7 @@ Backend developer | NodeJS developer | Python developer
 
 - 😊 Pronouns: He/him
 - 💡  A graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I am proficient using JavaScript, NodeJs, and its popular backend framework.
+- 🌱 I am proficient working with JavaScript, NodeJs, and its popular backend framework, Express.js.
 - 😊 I’m interested in open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1hoU0BXB7DaSY3W332_WmHKdhjqWCAo_CUhOQ5bdTvi0/edit?usp=sharing) and contact me by emailing mailtoabbasbilliamin2@gmail.com.
