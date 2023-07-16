@@ -1,5 +1,6 @@
 # Hello there; welcome 👋🏾
 [![Linkedin Badge](https://img.shields.io/badge/-abbasbilliamin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abbasbilliamin)](https://www.linkedin.com/in/abbasbilliamin) [![Twitter Badge](https://img.shields.io/badge/-@sxzQuare-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/sxzQuare)](https://twitter.com/sxzQuare)
+
 With over two years of experience working in the field of Software Development, I have honed my skills HTML, CSS, JavaScript, and most notably I am very proficient in Express.
 I am skilled in the use of this framework to develop web applications, with solid understanding of the importance of data modeling, cache layering, and schema design for optimal app performance and scalability.
 In addition to these, I am is familiar with python as well as frontend development concepts and technology such as React. 
