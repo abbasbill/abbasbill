@@ -7,8 +7,7 @@ Backend developer | NodeJS developer | React
 
 **Here's a quick summary about me**:
 
-- 💡  AltSchool Alumni [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I am proficient working with JavaScript, NodeJs/Express.js.
-- 😊 I’m interested in open source projects, hackathons, internships, and entry-level opportunities.
+-  AltSchool Alumni [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+-  I am proficient working with JavaScript, NodeJs/Express.js.
+-  I’m interested in open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Engineer (Intern or Junior level).
-- 📫 [view my resume](https://docs.google.com/document/d/1hoU0BXB7DaSY3W332_WmHKdhjqWCAo_CUhOQ5bdTvi0/edit?usp=sharing) and contact me by emailing mailtoabbasbilliamin2@gmail.com.
