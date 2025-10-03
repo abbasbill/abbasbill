@@ -3,7 +3,7 @@
 
 As a Backend Developer with over two years of coding experience in Web Development, My proficiency covers JavaScript, MySQL, Node.js, Express.js for building backend systems and components.
 My skillful approach in building web applications stems from the understanding of the importance of writing efficient, clean and testable code for optimal app performance and scalability which remains resourceful for product development that meet industry standards.
-Backend developer | NodeJS developer | React
+Backend developer | NodeJS developer 
 
 **Here's a quick summary about me**:
 
