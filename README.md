@@ -6,5 +6,5 @@ With a background in Software development, I merge technical expertise in databa
 - Modeling: ERD, Python
 - ETL  Pipeline: Docker, Apache Spark. Airflow.
 - Version Control: Git, Github.
-- Dashboard Development: PowerBI, Tableau, Google Studio. 
-- Cloud Platform: AWS, GCP 
+- Dashboard Development: PowerBI, Looker Studio, Google Studio. 
+- Cloud Platform: GCP 
