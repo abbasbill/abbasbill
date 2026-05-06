@@ -4,7 +4,7 @@ With a background in Software development, I merge technical expertise in databa
 ### CORE COMPETENCIES 
 - Database Management: MySQL, SQL, Postgres, Microsoft SQL Server. 
 - Modeling: ERD, Python
-- ETL  Pipeline: Docker, Apache Spark. Airflow.
+- ETL  Pipeline: Docker, Apache Spark. Airflow, kestra
 - Version Control: Git, Github.
 - Dashboard Development: PowerBI, Looker Studio, Google Studio. 
 - Cloud Platform: GCP 
